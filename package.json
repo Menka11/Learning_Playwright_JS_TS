@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "@playwright/mcp": "^0.0.68",
     "playwright": "^1.58.2"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  },
+  "scripts": {}
 }

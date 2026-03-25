@@ -1,0 +1,5 @@
+{
+    "chat.checkpoints.showFileChanges": true,
+    "chat.tools.terminal.autoReplyToPrompts": true,
+    "chat.mcp.gallery.enabled": true
+}
