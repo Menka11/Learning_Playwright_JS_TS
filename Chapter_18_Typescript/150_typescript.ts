@@ -16,3 +16,4 @@ let unknown: unknown = "Hello";
 //any
 
 let anyThing: any = "Hi";
+console.log(anyThing.toUpperCase()); // No error, but can cause runtime errors if anyThing is not a string

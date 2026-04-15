@@ -1,11 +1,14 @@
 {
   "dependencies": {
     "@playwright/mcp": "^0.0.68",
-    "playwright": "^1.58.2"
+    "playwright": "^1.58.2",
+    "tsc": "^2.0.4"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2",
-    "@types/node": "^25.5.0"
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
   },
   "scripts": {}
 }
